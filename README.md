@@ -31,3 +31,7 @@ Hyperparameter tuning to see which parameter values maximize performance for eac
     Polynomial: Degree order 
 
 Cross Validation (for model generalization) to make sure our performance is the same across splits of the data 
+
+
+**COMPARING ALL MODELS AT THEIR IDEAL PARAMETER VALUES**
+![image](https://user-images.githubusercontent.com/98823082/182159701-a0204e73-01f4-431c-9bab-08ac4976ccbc.png)

@@ -35,3 +35,4 @@ Cross Validation (for model generalization) to make sure our performance is the 
 
 **COMPARING ALL MODELS AT THEIR IDEAL PARAMETER VALUES**
 ![image](https://user-images.githubusercontent.com/98823082/182159701-a0204e73-01f4-431c-9bab-08ac4976ccbc.png)
+label for y axis is the Mean Squared Error (MSE)
